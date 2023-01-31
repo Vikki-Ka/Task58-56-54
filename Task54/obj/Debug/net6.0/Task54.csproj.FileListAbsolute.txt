@@ -1,0 +1,15 @@
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\bin\Debug\net6.0\Task54.exe
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\bin\Debug\net6.0\Task54.deps.json
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\bin\Debug\net6.0\Task54.dll
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\bin\Debug\net6.0\Task54.pdb
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\Task54.dll
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\refint\Task54.dll
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\Task54.pdb
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+C:\Users\user\Documents\My\GeekBrains\Программирование\С#\HomeWork8v2\Task54\obj\Debug\net6.0\ref\Task54.dll
